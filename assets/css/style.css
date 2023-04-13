@@ -764,7 +764,7 @@ section {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)), url(../img/call.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../img/pexels-fwstudio-139306.jpg) fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
@@ -795,8 +795,8 @@ section {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #E7B10A;
-  border: 2px solid #E7B10A;
+  background: #16FF00;
+  border: 2px solid #16FF00;
 }
 
 
