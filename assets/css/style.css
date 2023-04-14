@@ -764,9 +764,10 @@ section {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../img/pexels-fwstudio-139306.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../img/pexels-fwstudio-139306.jpg)  center center;
   background-size: cover;
   padding: 60px 0;
+  width: 100%;
 }
 
 #call-to-action h3 {
@@ -1132,7 +1133,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul li {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid#E7B10A;
   padding: 10px 0;
 }
 
@@ -1178,7 +1179,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter input[type=submit]:hover {
-  background: #E7B10A;
+  background:#E7B10A;
 }
 
 #footer .copyright {
